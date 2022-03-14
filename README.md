@@ -1,2 +1,2 @@
-# Gas_station_Database
-Personal project on DBMS to design a database for a new Gas station Business with multiple branches.
+# Systems Analysis and Design
+Academic projec to design a System for a Smart 24 hour library Vending Kiosk
